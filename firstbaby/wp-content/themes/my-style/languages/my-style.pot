@@ -1,0 +1,1264 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: My Style\n"
+"POT-Creation-Date: 2022-04-19 11:57+0300\n"
+"PO-Revision-Date: 2022-04-19 11:57+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:9
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:11
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: attachment.php:28 single.php:23
+msgid " Previous"
+msgstr ""
+
+#: attachment.php:31 single.php:26
+msgid "Next "
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:62
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:41
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:43
+msgid "Powered by WordPress"
+msgstr ""
+
+#: footer.php:47
+msgid "All rights reserved"
+msgstr ""
+
+#: footer.php:48
+msgid "My Style Theme by Seos Themes"
+msgstr ""
+
+#: functions.php:45
+msgid "Primary"
+msgstr ""
+
+#: functions.php:77
+msgid "Default Image 1"
+msgstr ""
+
+#: functions.php:96
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:98
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:105
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:114
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:123
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:132
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:309 functions.php:310 functions.php:315
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: functions.php:313
+msgctxt "placeholder"
+msgid "Search ..."
+msgstr ""
+
+#: functions.php:316
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: header.php:21
+msgid "Skip to content"
+msgstr ""
+
+#: include/animations/animations.php:25
+msgid "Default"
+msgstr ""
+
+#: include/animations/animations.php:26
+msgid "Deactivate Animation"
+msgstr ""
+
+#: include/animations/animations.php:27
+msgid "fade"
+msgstr ""
+
+#: include/animations/animations.php:28
+msgid "fade-up"
+msgstr ""
+
+#: include/animations/animations.php:29
+msgid "fade-down"
+msgstr ""
+
+#: include/animations/animations.php:30
+msgid "fade-left"
+msgstr ""
+
+#: include/animations/animations.php:31
+msgid "fade-right"
+msgstr ""
+
+#: include/animations/animations.php:32
+msgid "fade-up-right"
+msgstr ""
+
+#: include/animations/animations.php:33
+msgid "fade-up-left"
+msgstr ""
+
+#: include/animations/animations.php:34
+msgid "fade-down-right"
+msgstr ""
+
+#: include/animations/animations.php:35
+msgid "fade-down-left"
+msgstr ""
+
+#: include/animations/animations.php:36
+msgid "flip-up"
+msgstr ""
+
+#: include/animations/animations.php:37
+msgid "flip-down"
+msgstr ""
+
+#: include/animations/animations.php:38
+msgid "flip-left"
+msgstr ""
+
+#: include/animations/animations.php:39
+msgid "flip-right"
+msgstr ""
+
+#: include/animations/animations.php:40
+msgid "slide-up"
+msgstr ""
+
+#: include/animations/animations.php:41
+msgid "slide-down"
+msgstr ""
+
+#: include/animations/animations.php:42
+msgid "slide-left"
+msgstr ""
+
+#: include/animations/animations.php:43
+msgid "slide-right"
+msgstr ""
+
+#: include/animations/animations.php:44
+msgid "zoom-in"
+msgstr ""
+
+#: include/animations/animations.php:45
+msgid "zoom-in-up"
+msgstr ""
+
+#: include/animations/animations.php:46
+msgid "zoom-in-down"
+msgstr ""
+
+#: include/animations/animations.php:47
+msgid "zoom-in-left"
+msgstr ""
+
+#: include/animations/animations.php:48
+msgid "zoom-in-right"
+msgstr ""
+
+#: include/animations/animations.php:49
+msgid "zoom-out"
+msgstr ""
+
+#: include/animations/animations.php:50
+msgid "zoom-out-up"
+msgstr ""
+
+#: include/animations/animations.php:51
+msgid "zoom-out-down"
+msgstr ""
+
+#: include/animations/animations.php:52
+msgid "zoom-out-left"
+msgstr ""
+
+#: include/animations/animations.php:53
+msgid "zoom-out-right"
+msgstr ""
+
+#: include/animations/animations.php:67
+msgid "Animations"
+msgstr ""
+
+#: include/animations/animations.php:74 include/animations/animations.php:82
+msgid "Animation Articles"
+msgstr ""
+
+#: include/back-to-top-button.php:8
+msgid "Back To Top Button Options"
+msgstr ""
+
+#: include/back-to-top-button.php:16
+msgid "Activate Back To Top Button"
+msgstr ""
+
+#: include/back-to-top-button.php:26
+msgid "Button Background Color"
+msgstr ""
+
+#: include/back-to-top-button.php:35
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: include/content-customizer.php:7
+msgid "Content Options"
+msgstr ""
+
+#: include/content-customizer.php:19
+msgid "Content max width"
+msgstr ""
+
+#: include/content-customizer.php:34
+msgid "Content Padding"
+msgstr ""
+
+#: include/content-customizer.php:46
+msgid "Hide sidebar and content on home page"
+msgstr ""
+
+#: include/content-customizer.php:58
+msgid "Show featured images on all single pages."
+msgstr ""
+
+#: include/customize-pro/class-customize.php:148
+msgid "Style Pro"
+msgstr ""
+
+#: include/customize-pro/class-customize.php:150
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: include/customizer.php:28
+msgid "Background Color "
+msgstr ""
+
+#: include/customizer.php:43
+msgid "center center"
+msgstr ""
+
+#: include/customizer.php:44 include/customizer.php:116
+msgid "Real Size (Deactivate the image height.)"
+msgstr ""
+
+#: include/customizer.php:54 include/customizer.php:85
+msgid "All Pages"
+msgstr ""
+
+#: include/customizer.php:55 include/customizer.php:86
+msgid "Home Page"
+msgstr ""
+
+#: include/customizer.php:70
+msgid "Body Background Color"
+msgstr ""
+
+#: include/customizer.php:79
+msgid "Activate Header Image"
+msgstr ""
+
+#: include/customizer.php:97
+msgid "Image Height"
+msgstr ""
+
+#: include/customizer.php:109
+msgid "Image Position"
+msgstr ""
+
+#: include/customizer.php:115
+msgid "Background Cover (center center)"
+msgstr ""
+
+#: include/customizer.php:125
+msgid "Dectivate Image Shadow:"
+msgstr ""
+
+#: include/customizer.php:136
+msgid "Dectivate Image Zoom:"
+msgstr ""
+
+#: include/customizer.php:147
+msgid "Dectivate Text Animation:"
+msgstr ""
+
+#: include/customizer.php:160
+msgid "Deactivate WooCommerce Cart:"
+msgstr ""
+
+#: include/header-buttons.php:5
+msgid "Header Buttons"
+msgstr ""
+
+#: include/header-buttons.php:15
+msgid "Button 1 Text"
+msgstr ""
+
+#: include/header-buttons.php:26
+msgid "Button 1 URL"
+msgstr ""
+
+#: include/header-buttons.php:36
+msgid "Button 2 Text"
+msgstr ""
+
+#: include/header-buttons.php:47
+msgid "Button 2 URL"
+msgstr ""
+
+#: include/header-top.php:16
+msgid "Header Top"
+msgstr ""
+
+#: include/header-top.php:25
+msgid "Activate Header Top"
+msgstr ""
+
+#: include/header-top.php:36
+msgid "E-mail"
+msgstr ""
+
+#: include/header-top.php:47
+msgid "Address"
+msgstr ""
+
+#: include/header-top.php:58
+msgid "Phone"
+msgstr ""
+
+#: include/header-top.php:69
+msgid "Activate Search Icon:"
+msgstr ""
+
+#: include/header-top.php:82
+msgid "Activate WooCommerce Cart:"
+msgstr ""
+
+#: include/header-top.php:135
+msgid "Menu"
+msgstr ""
+
+#: include/header-top.php:149 include/header-top.php:152
+msgid "header image"
+msgstr ""
+
+#: include/menu-options.php:6 include/menu-options.php:100
+msgid "Left"
+msgstr ""
+
+#: include/menu-options.php:7 include/menu-options.php:101
+msgid "Right"
+msgstr ""
+
+#: include/menu-options.php:8 include/menu-options.php:102
+msgid "Center"
+msgstr ""
+
+#: include/menu-options.php:18
+msgid "Menu Options"
+msgstr ""
+
+#: include/menu-options.php:28
+msgid "Hide Menu"
+msgstr ""
+
+#: include/menu-options.php:39
+msgid "Activate Scroll Menu Slide"
+msgstr ""
+
+#: include/menu-options.php:53
+msgid "Menu Padding"
+msgstr ""
+
+#: include/menu-options.php:69
+msgid "Menu Font Size"
+msgstr ""
+
+#: include/menu-options.php:83
+msgid "Hide Sub Menu Arrow."
+msgstr ""
+
+#: include/menu-options.php:94
+msgid "Menu Position"
+msgstr ""
+
+#: include/menu-options.php:111
+msgid "Menu Color"
+msgstr ""
+
+#: include/menu-options.php:121
+msgid "Menu Hover Color"
+msgstr ""
+
+#: include/menu-options.php:131
+msgid "Sub Menu Color"
+msgstr ""
+
+#: include/menu-options.php:141
+msgid "Sub Menu Hover Color"
+msgstr ""
+
+#: include/menu-options.php:150 include/menu-options.php:160
+msgid "Menu Background Color"
+msgstr ""
+
+#: include/menu-options.php:151
+msgid "Only when a page has an active header image."
+msgstr ""
+
+#: include/menu-options.php:161
+msgid "Only when a page does not have an active header image."
+msgstr ""
+
+#: include/menu-options.php:170
+msgid "Sub Menu Border Top Color"
+msgstr ""
+
+#: include/menu-options.php:179
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: include/menu-options.php:188
+msgid "Sub Menu Background Hover Color"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: include/plugins/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: include/plugins/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: include/plugins/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: include/plugins/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: include/plugins/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: include/plugins/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: include/plugins/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: include/plugins/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/plugins/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/plugins/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/plugins/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/plugins/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:386
+#: include/plugins/class-tgm-plugin-activation.php:793
+#: include/plugins/class-tgm-plugin-activation.php:2499
+#: include/plugins/class-tgm-plugin-activation.php:3539
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:387
+#: include/plugins/class-tgm-plugin-activation.php:3118
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: include/plugins/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: include/plugins/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: include/plugins/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:900
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:900
+#: include/plugins/class-tgm-plugin-activation.php:903
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:903
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:1087
+#: include/plugins/class-tgm-plugin-activation.php:2907
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: include/plugins/class-tgm-plugin-activation.php:1948
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2239
+msgid "Required"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2242
+msgid "Recommended"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2258
+msgid "WordPress Repository"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2261
+msgid "External Source"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2264
+msgid "Pre-Packaged"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2281
+msgid "Not Installed"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2285
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2287
+msgid "Active"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2293
+msgid "Required Update not Available"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2296
+msgid "Requires Update"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2299
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: include/plugins/class-tgm-plugin-activation.php:2308
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: include/plugins/class-tgm-plugin-activation.php:2354
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: include/plugins/class-tgm-plugin-activation.php:2358
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: include/plugins/class-tgm-plugin-activation.php:2362
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: include/plugins/class-tgm-plugin-activation.php:2366
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2448
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2456
+msgid "Installed version:"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2464
+msgid "Minimum required version:"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2476
+msgid "Available version:"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2499
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2513
+msgid "Plugin"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2514
+msgid "Source"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2515
+msgid "Type"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2519
+msgid "Version"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2520
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: include/plugins/class-tgm-plugin-activation.php:2569
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: include/plugins/class-tgm-plugin-activation.php:2574
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: include/plugins/class-tgm-plugin-activation.php:2580
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2650
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2683
+msgid "Install"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2689
+msgid "Update"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2692
+msgid "Activate"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2716
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2718
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2759
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2761
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2867
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:2911
+msgid "The following plugin was activated successfully "
+msgid_plural "The following plugins were activated successfully "
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3117
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: include/plugins/class-tgm-plugin-activation.php:3457
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: include/plugins/class-tgm-plugin-activation.php:3460
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: include/plugins/class-tgm-plugin-activation.php:3462
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3466
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: include/plugins/class-tgm-plugin-activation.php:3468
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3468
+#: include/plugins/class-tgm-plugin-activation.php:3476
+msgid "Show Details"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3468
+#: include/plugins/class-tgm-plugin-activation.php:3476
+msgid "Hide Details"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3469
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: include/plugins/class-tgm-plugin-activation.php:3471
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3474
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: include/plugins/class-tgm-plugin-activation.php:3476
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: include/plugins/class-tgm-plugin-activation.php:3477
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: include/plugins/class-tgm-plugin-activation.php:3479
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: include/post-options.php:4 include/pro/pro.php:136
+msgid "Post Options"
+msgstr ""
+
+#: include/post-options.php:11
+msgid "Hide Author"
+msgstr ""
+
+#: include/post-options.php:22
+msgid "Hide Calendar"
+msgstr ""
+
+#: include/post-options.php:33
+msgid "Hide Comments Link"
+msgstr ""
+
+#: include/post-options.php:44
+msgid "Hide Posted in Category"
+msgstr ""
+
+#: include/post-options.php:55
+msgid "Hide Tags"
+msgstr ""
+
+#: include/pro/pro.php:31
+msgid "Style WordPress Theme"
+msgstr ""
+
+#: include/pro/pro.php:33
+msgid ""
+"We create free themes and have helped thousands of users to build their "
+"sites. You can also support us using the Style Pro theme with many new "
+"features and extensions."
+msgstr ""
+
+#: include/pro/pro.php:34 include/pro/pro.php:273
+msgid "Theme Demo"
+msgstr ""
+
+#: include/pro/pro.php:35 include/pro/pro.php:275
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: include/pro/pro.php:40
+msgid "Style Wordpress Theme"
+msgstr ""
+
+#: include/pro/pro.php:41
+msgid "Free WP Theme"
+msgstr ""
+
+#: include/pro/pro.php:42
+msgid "Premium WP Theme"
+msgstr ""
+
+#: include/pro/pro.php:45
+msgid "About US"
+msgstr ""
+
+#: include/pro/pro.php:50
+msgid "Sidebar Position"
+msgstr ""
+
+#: include/pro/pro.php:55
+msgid "Counter"
+msgstr ""
+
+#: include/pro/pro.php:60
+msgid "Portfolio Filter"
+msgstr ""
+
+#: include/pro/pro.php:65
+msgid "Home Page Parallax Image"
+msgstr ""
+
+#: include/pro/pro.php:70
+msgid "Popular Posts"
+msgstr ""
+
+#: include/pro/pro.php:75
+msgid "Recent Posts Slider"
+msgstr ""
+
+#: include/pro/pro.php:80
+msgid "Contacts Footer"
+msgstr ""
+
+#: include/pro/pro.php:85
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: include/pro/pro.php:90
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: include/pro/pro.php:95
+msgid "Blog Page"
+msgstr ""
+
+#: include/pro/pro.php:100
+msgid "Blog Page Right Sidebar"
+msgstr ""
+
+#: include/pro/pro.php:105
+msgid "Blog Page Full Width"
+msgstr ""
+
+#: include/pro/pro.php:110
+msgid "Blog Page Three Columns"
+msgstr ""
+
+#: include/pro/pro.php:115
+msgid "Blog Page Two Columns"
+msgstr ""
+
+#: include/pro/pro.php:120
+msgid "Camera Slider"
+msgstr ""
+
+#: include/pro/pro.php:126
+msgid "Title Position"
+msgstr ""
+
+#: include/pro/pro.php:131
+msgid "One Click Demo Import"
+msgstr ""
+
+#: include/pro/pro.php:141
+msgid "WooCommerce My Account Icon"
+msgstr ""
+
+#: include/pro/pro.php:146
+msgid "Multiple Gallery"
+msgstr ""
+
+#: include/pro/pro.php:151
+msgid "Animations of all elements"
+msgstr ""
+
+#: include/pro/pro.php:156
+msgid "Header Options"
+msgstr ""
+
+#: include/pro/pro.php:161
+msgid "Hide Single Page Title"
+msgstr ""
+
+#: include/pro/pro.php:166
+msgid "Featured Image"
+msgstr ""
+
+#: include/pro/pro.php:171
+msgid "WooCommerce Product Zoom"
+msgstr ""
+
+#: include/pro/pro.php:176
+msgid "WooCommerce Cart Options"
+msgstr ""
+
+#: include/pro/pro.php:181
+msgid "WooCommerce Pagination"
+msgstr ""
+
+#: include/pro/pro.php:188
+msgid "All Google Fonts"
+msgstr ""
+
+#: include/pro/pro.php:193
+msgid "Shortcode"
+msgstr ""
+
+#: include/pro/pro.php:198
+msgid "Color of All Elements"
+msgstr ""
+
+#. Template Name of the plugin/theme
+#: include/pro/pro.php:203
+msgid "Full Width Page"
+msgstr ""
+
+#: include/pro/pro.php:209
+msgid "Font Sizes"
+msgstr ""
+
+#: include/pro/pro.php:214
+msgid "Social Media Icons"
+msgstr ""
+
+#: include/pro/pro.php:219
+msgid "Custom Footer Copyright"
+msgstr ""
+
+#: include/pro/pro.php:224
+msgid "Microdata"
+msgstr ""
+
+#: include/pro/pro.php:229
+msgid "Translation Ready"
+msgstr ""
+
+#: include/pro/pro.php:234
+msgid "Header Logo"
+msgstr ""
+
+#: include/pro/pro.php:242
+msgid "Header Image"
+msgstr ""
+
+#: include/pro/pro.php:247
+msgid "Background Image"
+msgstr ""
+
+#: include/pro/pro.php:252
+msgid "404 Page Template"
+msgstr ""
+
+#: include/pro/pro.php:257
+msgid "Footer Widgets"
+msgstr ""
+
+#: include/pro/pro.php:262
+msgid "WooCommerce Plugin Support"
+msgstr ""
+
+#: include/pro/pro.php:267
+msgid "Back to top button"
+msgstr ""
+
+#: include/read-more-button.php:20
+msgid "Read More"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: include/template-tags.php:49
+msgid ", "
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: include/template-tags.php:55
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: %s: post title
+#: include/template-tags.php:67
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: include/template-tags.php:83 template-parts/content-page.php:45
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: include/woocommerce/cart.php:13 include/woocommerce/cart.php:44
+msgid "View your cart"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:35
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:40
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:33 template-parts/content.php:66
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:56
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "My Style"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://seosthemes.com/style-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"My Style is a WordPress theme for professionals. My Style is a modern "
+"Multipurpose and HTML5 WordPress theme for creating beautiful, accessible "
+"and fast loading websites. Gutenberg Compatible, WooCommerce Compatible, "
+"Full Responsive, Content Options, Header Options, Back To Top Button, "
+"Microdata, Header Image Zoom, Animations and Custom Colors. My Style Theme "
+"is very fast and SEO friendly Fast Theme can be used by bloggers, magazine, "
+"portfolio, photography, newspaper, startups, agencies, E-Commerce, news, "
+"wedding and many more. The theme is for any business."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "seosbg"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://seosthemes.com/"
+msgstr ""
